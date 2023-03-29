@@ -1,4 +1,4 @@
-# Colaborative-Filtering
+# Collaborative-Filtering
 Movie recommendation using Collaborative Filtering Algorithm by Breese, Heckerman and Kadie
 Implementation of Empirical Analysis of Predictive Algorithms for Collaborative Filtering.
 

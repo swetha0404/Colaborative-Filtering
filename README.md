@@ -1,5 +1,6 @@
 # Collaborative-Filtering
-Movie recommendation using Collaborative Filtering Algorithm by Breese, Heckerman and Kadie
+Movie recommendation using Collaborative Filtering Algorithm by Breese, Heckerman and Kadie.
+
 Implementation of Empirical Analysis of Predictive Algorithms for Collaborative Filtering.
 
 •The dataset is a subset of the movie ratings data from the Netflix Prize.
